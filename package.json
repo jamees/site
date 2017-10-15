@@ -1,0 +1,19 @@
+{
+  "name": "james.cl",
+  "version": "1.0.0",
+  "description": "Sitio Personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamees/site.git"
+  },
+  "author": "jamees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamees/site/issues"
+  },
+  "homepage": "https://github.com/jamees/site#readme"
+}
